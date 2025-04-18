@@ -23,9 +23,9 @@ MCPServerCSVQuery.py 是一个 Python 的 MCP Server，它将 CSV 文件读入�
   
 ## Future Developments  
 **English:**   
-I will soon update the MCP Client to connect to multiple MCP Servers. Additionally, I plan to add another RAG MCP Server shortly.  
+I will soon update the MCP Client to connect to multiple MCP Servers.  
 **中文:**   
-我很快会更新 MCP Client，使其能连接多个 MCP Server。此外，我计划不久后增加另一个 RAG MCP Server。  
+我很快会更新 MCP Client，使其能连接多个 MCP Server。  
   
 ## Additional Information  
 **English:**   
